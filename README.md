@@ -7,7 +7,10 @@ Wireless 433Mhz weather station using Arduino
 * README.md - this file
 
 ## Video
-todo
+
+[![Arduino Weather](http://img.youtube.com/vi/Kg0E7Gta-mY/0.jpg)](https://www.youtube.com/watch?v=Kg0E7Gta-mY&list=PLx8GfAxNN_auGBR6LYJm67gwEL8KkZsHh&index=1)
+
+* [View on Youtube](https://www.youtube.com/watch?v=Kg0E7Gta-mY&list=PLx8GfAxNN_auGBR6LYJm67gwEL8KkZsHh&index=1)
 
 ## Parts used
 
